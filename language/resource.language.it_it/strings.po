@@ -260,6 +260,10 @@ msgctxt "#31060"
 msgid "This file is stacked, select the part you want to play from."
 msgstr "Questo file è stato accorpato, scegli la parte da cui vuoi iniziare."
 
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Statistiche preferiti"
+
 msgctxt "#31062"
 msgid "Random movie fanart"
 msgstr "Fanart film casuale"
@@ -452,9 +456,61 @@ msgctxt "#31109"
 msgid "Unwatched episode count"
 msgstr "Contatore episodi non visti"
 
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a tvshow (Netflix/Prime video style)."
+msgstr "La prossima opzione offre la possibilità di guardare subito il prossimo episodio di una serie TV (stile Netflix/Prime)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Film simili"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Film diretti da"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Film scritti da"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Altri film da"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Serie TV simili"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "ciclo fanart"
+
 msgctxt "#31117"
 msgid "Fallback"
 msgstr "Fallback"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Scarica extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr Mostra i film di questo regista nella tua libreria o visualizza informazioni online su questo regista su TMDb?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Disabilita il completamento automatico"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Disabilita la funzione di completamento automatico della tastiera virtuale"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Recensione Album"
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
@@ -464,21 +520,185 @@ msgctxt "#31125"
 msgid "Show Background \"Now Playing\" Visualisation"
 msgstr "Mostra vista \"In riproduzione\" nello sfondo"
 
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "Impostazioni mod LiveTV M"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Visualizzazione canali"			  
+
 msgctxt "#31129"
 msgid "Hide Fanart in full screen visualisation"
 msgstr "Nascondi fanart nella visualizzazione full screen"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Usa l'OSD del canale \"Enigma2-style\""
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "Visualizzazione cronologia EPG"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "Tuner:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Sequenza temporale del tipo di canali:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Sequenza temporale del tipo di vista:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Opzioni della barra delle informazioni"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Tipo della barra delle informazioni:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Nascondi le informazioni crittografia"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Nascondi le informazioni sintonizzatore"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Nascondi informazioni segnale"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Opzioni elenco laterale"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Nascondi la guida"
 
 msgctxt "#31142"
 msgid "Settings level"
 msgstr "Livello impostazioni"
 
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Nascondi registrazioni"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Nascondi Timer"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Nascondi Ricerca"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "VValutato"
+
 msgctxt "#31147"
 msgid "Change rating"
 msgstr "Cambia valutazione"
 
+				
+								
+								 
+
+				
+									
+									 
+
+				
+								  
+								   
+
+				
+																																					  
+																																					   
+
+				
+						  
+						   
+
+				
+										
+										 
+
+				
+										  
+										   
+
+				
+								  
+									 
+
+				
+					   
+						
+
+				
+						  
+						   
+
+				
+						   
+							
+
+				
+				 
+				  
+
+				
+							   
+								
+
+				
+																												  
+																												   
+
+				
+		   
+			
+
+				
+				 
+				  
+
+				
+							
+							 
+
+				
+			  
+			   
+
 msgctxt "#31166"
 msgid "Wall"
 msgstr "Muro"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Stai guardando"
+
+				
+		 
+		  
+
+				
+		 
+		  
+
+				
+										 
+										  
+
+				
+																					   
+																						
 
 msgctxt "#31172"
 msgid "Inactive"
@@ -488,9 +708,49 @@ msgctxt "#31173"
 msgid "Decoder"
 msgstr "Decoder"
 
+				
+						 
+						  
+
+				
+								 
+								  
+
 msgctxt "#31176"
 msgid "Enter text here..."
 msgstr "Digita testo qui…"
+
+				
+					   
+						
+
+				
+						
+						 
+
+				
+			   
+				
+
+				
+															 
+															  
+
+				
+								   
+									
+
+				
+										
+										 
+
+				
+										   
+											
+
+				
+																															
+																															 
 
 msgctxt "#31205"
 msgid "Lyrics Source"
@@ -499,6 +759,50 @@ msgstr "Sorgente Testi"
 msgctxt "#31220"
 msgid "Show rating"
 msgstr "Mostra valutazione"
+
+				
+							
+							 
+
+				
+			   
+				
+
+				
+				 
+				  
+
+				
+						
+						 
+
+				
+					  
+					   
+
+				
+					 
+					  
+
+				
+												
+												 
+
+				
+												
+												 
+
+				
+						   
+							
+
+				
+													   
+														
+
+				
+											 
+											  
 
 msgctxt "#31300"
 msgid "Overview"
@@ -532,17 +836,41 @@ msgctxt "#31328"
 msgid "Recently Added"
 msgstr "Aggiunti di recente"
 
+				
+				 
+				  
+
+				
+					 
+					  
+
+				
+				
+				 
+
 msgctxt "#31335"
 msgid "Recommended"
 msgstr "Raccomandato"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Opzionale"			 
 
 msgctxt "#31390"
 msgid "Skin default"
 msgstr "Predefinito della Skin"
 
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]IMPOSTAZIONI INTERFACCIA[/B][CR][CR]Cambia skin · Imposta lingua e regione · Imposta controlli remoti[CR]Imposta screensaver · Imposta master lock"
+
 msgctxt "#31405"
 msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
 msgstr "[B]TIENI SOTTO CONTROLLO IL TUO SISTEMA[/B][CR][CR]Verifica il tuo hardware   Monitorizza l'utilizzo della CPU[CR]Verifica la versione di Kodi"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]IMPOSTAZIONI DI SISTEMA[/B][CR][CR]Imposta e calibra display · Configura uscita audio· [CR]Imposta le opzioni di risparmio energetico · Abilita debugging"																																					   
 
 msgctxt "#31407"
 msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
@@ -564,9 +892,93 @@ msgctxt "#31413"
 msgid "Local subtitle available"
 msgstr "Sottotitolo locale disponibile"
 
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]IMPOSTAZZIONE LETTORE[/B][CR][CR]Configura riproduzione video · Configura riproduzione musica · Configura presentazione immagini[CR]Configura lingua e sottotitoli"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]MEDIA SETTINGS[/B][CR][CRImposta azione predefinita · Configura opzioni elenco file · Configura opzioni metadata[CR]Gestisci database"																																			  
+
 msgctxt "#31421"
 msgid "Select your Kodi user profile[CR]to login and continue"
 msgstr "Scegli il tuo profilo utente di Kodi[CR]per fare il login e continuare"
+
+				
+																				
+																				 
+
+				
+																					   
+																						
+
+				
+																																											 
+																																											  
+
+				
+																							   
+																								
+
+				
+																										
+																										 
+
+				
+																																
+																																 
+
+				
+																					   
+																						
+
+				
+																																			 
+																																			  
+
+				
+							 
+							  
+
+				
+							   
+								
+
+				
+																					
+																					 
+
+				
+																									 
+																									  
+
+				
+																				   
+																					
+
+				
+																																							 
+																																							  
+
+				
+																				   
+																					
+
+				
+																														
+																														 
+
+				
+																							
+																							 
+
+				
+																				   
+																					
+
+				
+																															 
+																															  
 
 msgctxt "#31501"
 msgid "Channel group"
@@ -631,6 +1043,14 @@ msgstr "Imposta il menù principale di Aeon Tajo"
 msgctxt "#31912"
 msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
 msgstr "Personalizza il menù principale con widget, sfondi e statistiche. Aggiungi i tuoi elementi personalizzati."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Posizione verticale del menu principale di Aeon Tajo"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Cambia la posizione verticale del menu principale. L'impostazione predefinita è centrata sullo schermo."
 
 msgctxt "#31915"
 msgid "Navigation style for horizontal lists"
@@ -699,6 +1119,10 @@ msgstr "Seleziona un widget da mostrare nella schermata principale per avere fac
 msgctxt "#31931"
 msgid "Video plot preference"
 msgstr "Preferenze trama video"
+
+				
+																																							   
+																																								
 
 msgctxt "#31933"
 msgid "Select an item to display on the left top of the main menu"
@@ -795,3 +1219,31 @@ msgstr "Nascondi valutazioni dalla vista lista"
 msgctxt "#31962"
 msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
 msgstr "Questo abilita o meno la visibilità delle valutazioni in viste di tipo List, LowList e TriPanel, a meno che siano ordinate per valutazione."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Configura menu principale"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Personalizza il menu principale con widget, sfondi, sottomenu e statistiche. Aggiungi le tue voci di menu principale personalizzate."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Skin addons"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Componenti aggiuntivi utilizzati per migliorare Aeon Tajo."
+
+msgctxt "#31969"
+msgid "General options"
+msgstr "Opzioni generali"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/tvshows and other options."
+msgstr "Impostazione di melodie, il modo di mostrare widget, temi e cast per film/spettacoli televisivi e altre opzioni."
